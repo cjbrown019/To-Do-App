@@ -51,7 +51,7 @@ export default function Categories() {
                 <SingleCategory category={t} key={t.categoryId} getCategories={getCategories}/>)}
         </tbody>
       </Table>
-            
+            hello
     </article>
   </section>
   )
