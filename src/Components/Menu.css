@@ -1,0 +1,10 @@
+.menu-button{
+    width: 3em;
+    height: 3em;
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+    border-radius: 50%;
+    cursor: pointer;
+    background-color: darkgreen;
+};

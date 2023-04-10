@@ -1,0 +1,12 @@
+.nav-link{
+    font-size: 1.4em !important;
+}
+
+.nav-link:hover{
+    color: #A6A6A6;
+    transition: 100ms;
+}
+
+.navbar-brand{
+    font-size: 1.6em !important;
+}

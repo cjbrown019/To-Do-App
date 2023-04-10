@@ -1,0 +1,70 @@
+/* div.card-welcome{
+    margin-top: 5em;
+} */
+
+/* Color Theme Swatches in Hex */
+/* .text-lt-secondary { color: #EAF205 !important; }
+.text-custom-secondary { color: #F2E205 !important; }
+.text-dk-secondary { color: #BFB304 !important; }
+.text-grey { color: #A6A6A6 !important; }
+.text-custom-primary{ color: #0D0D0D !important; }
+
+
+
+.bg-custom-primary{
+    background-color: #0D0D0D !important;
+}
+
+.bg-custom-secondary{
+    background-color: #F2E205 !important;
+}
+
+.bg-dk-secondary{
+    background-color: #BFB304 !important;
+}
+
+.bg-lt-secondary{
+    background-color: #EAF205 !important;
+}
+
+.bg-grey{
+    color: #A6A6A6 !important;
+} */
+
+body article.home{
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    padding: 8em;
+    background-image: url(/src/Images/podcast_banner_mobile.jpg);
+    background-repeat: no-repeat;
+}
+
+article.banner-text{
+    background-image: none !important;
+    background-color: #EAF205 !important;
+  }
+
+  .m-card{
+    margin-top: 5rem;
+    padding-bottom: 4em;
+    
+}
+
+article.m-tabled{
+    padding-top: 10vh; 
+    padding-bottom: 10vh; 
+    background-image: url('/src/Images/homepage-hero-image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+article.m-tabled2{
+    padding-top: 10vh; 
+    padding-bottom: 10vh; 
+    background-image: url('/src/Images/01_icarioPodcast_heroBannerGeneral_2800x1272_9-28-22-scaled.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
